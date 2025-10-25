@@ -5,6 +5,7 @@
   "bin": {
     "next-saas-template": "index.js"
   },
+  "license": "MIT",
   "type": "module",
   "dependencies": {
     "degit": "^2.8.4",
