@@ -1,0 +1,14 @@
+{
+  "name": "next-saas-template",
+  "version": "1.0.4",
+  "main": "index.js",
+  "bin": {
+    "next-saas-template": "index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "degit": "^2.8.4",
+    "execa": "^8.0.0",
+    "ora": "^8.0.0"
+  }
+}
